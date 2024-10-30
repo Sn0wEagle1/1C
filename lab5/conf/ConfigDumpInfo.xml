@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Библиотека" id="8479c81e-593c-4d46-a22e-43916994e7a5" configVersion="4296f5335c3b83419e1686822838703600000000">
+			<Metadata name="Catalog.Библиотека.Attribute.Автор" id="46e4176c-8702-4c88-bc61-fc731c0ad880"/>
+			<Metadata name="Catalog.Библиотека.Attribute.Цена" id="55734583-6728-4e1d-ab3e-133bd5cf3ee7"/>
+			<Metadata name="Catalog.Библиотека.Attribute.Описание" id="6b7ec8e1-a1ef-4600-a64a-68b67e19c72a"/>
+			<Metadata name="Catalog.Библиотека.Attribute.ГодИздания" id="99287548-86a2-4f0f-89db-44293659e335"/>
+			<Metadata name="Catalog.Библиотека.Attribute.КоличествоСтраниц" id="9ea8e171-b8a3-48b0-8e9a-e734e4361bca"/>
+			<Metadata name="Catalog.Библиотека.Attribute.АдресИздательства" id="aaadc40e-34d8-4f3c-ae9a-035cb165b012"/>
+			<Metadata name="Catalog.Библиотека.Attribute.НазваниеИздательства" id="b33da963-fdfb-4c8c-ac7f-41162fed996a"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="63d73f65-ac51-4d26-8cd3-bf35b64dca8d" configVersion="7bc814d2266608458010c437786dd0ed00000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.СрокГодности" id="30682b4c-9af9-405e-a836-11faf0bcf888"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Производитель" id="43d463da-232b-44f6-90fb-b1fdc7beb985"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Цена" id="6699131a-6292-479f-a16f-54e1df599971"/>
+			<Metadata name="Catalog.Номенклатура.Attribute.Характеристика" id="8e00915b-df8a-4ec0-a4ca-ef530923d13d"/>
+		</Metadata>
+		<Metadata name="Catalog.ПогодаПоГородам" id="adbf64e5-c240-4899-9f19-090e8d52aa5b" configVersion="a7944c737fd2eb4eb43f32c7be71d1d200000000">
+			<Metadata name="Catalog.ПогодаПоГородам.Attribute.Город" id="3bd338a7-25e4-4f0e-a6b9-b3dba5d1dabb"/>
+			<Metadata name="Catalog.ПогодаПоГородам.Attribute.Дата" id="6e253ce7-70dc-4337-aa69-30e360dbb557"/>
+			<Metadata name="Catalog.ПогодаПоГородам.Attribute.ТемператураВоздуха" id="9aa1e06e-3bed-49b4-bb7d-888fec715165"/>
+			<Metadata name="Catalog.ПогодаПоГородам.Attribute.Влажность" id="9bac81d6-da03-4d60-a7e9-f0deac7fb2b8"/>
+			<Metadata name="Catalog.ПогодаПоГородам.Attribute.ТемператураПоОщущениям" id="c2122dd9-39de-4a35-8475-379969351646"/>
+		</Metadata>
+		<Metadata name="Catalog.РационСотрудника" id="80152576-3131-40f5-b30f-ac18c0766b33" configVersion="0b472a16a5531246b1353c1536cb2d1d00000000">
+			<Metadata name="Catalog.РационСотрудника.Attribute.Первое" id="1dcf1b33-6c0c-4075-bbab-0dc6ea7102e9"/>
+			<Metadata name="Catalog.РационСотрудника.Attribute.Второе" id="413fbdc7-8a40-40d9-bb4e-f4666269de69"/>
+			<Metadata name="Catalog.РационСотрудника.Attribute.Напиток" id="4f27dfa9-0f0b-452e-a2ed-41af1fcadf7c"/>
+			<Metadata name="Catalog.РационСотрудника.Attribute.ФИО" id="c26721f8-f9ec-4e07-a474-e2b868044eb7"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="d5e62fc9-74ae-437e-8f6f-d7f9e4276598" configVersion="c1f146eff336484183956f468ec4f3c000000000"/>
+		<Metadata name="DataProcessor.Обработка1" id="cef74eea-b1a8-458b-b550-466cd6c041c2" configVersion="b3c780c32b52e44a8cbb4f572159b08e00000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма" id="c4bea62c-58eb-4fcd-a201-28a7555a987f" configVersion="bda17c0615269b41b9ae41f51a08990e00000000"/>
+		<Metadata name="DataProcessor.Обработка1.Form.Форма.Form" id="c4bea62c-58eb-4fcd-a201-28a7555a987f.0" configVersion="780abab1b1317b469f3b1e7d85eb7a3800000000"/>
+		<Metadata name="Language.Русский" id="58946220-69a2-4ba4-b1d8-b65d976feceb" configVersion="f1a5717a4fceaa42b1835fddfbd24abc00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
